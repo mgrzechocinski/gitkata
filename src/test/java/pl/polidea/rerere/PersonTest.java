@@ -1,7 +1,9 @@
-package org.gradle;
+package pl.polidea.rerere;
+
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
-import static org.junit.Assert.*;
+import pl.gitkata.rerere.Person;
 
 public class PersonTest {
     @Test
